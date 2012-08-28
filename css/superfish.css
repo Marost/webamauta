@@ -1,0 +1,7 @@
+.sf-menu li {
+	position:		relative;
+}
+.sf-menu li:hover, .sf-menu li.sfHover,
+.sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {
+	outline:		0;
+}
