@@ -47,16 +47,16 @@
             <?php if($script_slidersup==true){ ?>
             <div id="slide_superior">
             	<div id="slsup_items">
-                	<a href="administracion_de_empresas.php">
+                	<a href="carrera-adm.php">
            	  			<img src="imagenes/slide/amauta1.jpg" alt="Imagen" width="940" height="415" />
                     </a>
-                    <a href="computacion_e_informatica.php">
+                    <a href="carrera-cmp.php">
            	  			<img src="imagenes/slide/amauta2.jpg" alt="Imagen" width="940" height="415" />
                     </a>
-                    <a href="gastronomia_y_arte_culinario.php">
+                    <a href="carrera-gst.php">
            	  			<img src="imagenes/slide/amauta3.jpg" alt="Imagen" width="940" height="415" />
                     </a>
-                    <a href="marketing_empresarial.php">
+                    <a href="carrera-mkt.php">
            	  			<img src="imagenes/slide/amauta4.jpg" alt="Imagen" width="940" height="415" />
                     </a>
                 </div>
