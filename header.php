@@ -10,9 +10,10 @@
                 </div>
                 
                 <div id="wg_social">
-                
-                    
-                        
+                    <ul id="wgsc_items">
+                        <li><a target="_blank" class="wgsc_facebook" href="http://facebook.com/amauta.istp">Facebook</a></li>
+                        <li><a target="_blank" class="wgsc_twitter" href="http://twitter.com/istp_amauta">Twitter</a></li>
+                    </ul>
                 </div>
                 
             </div><!-- FIN HEADER SUP -->
