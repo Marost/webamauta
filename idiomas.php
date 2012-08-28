@@ -25,15 +25,15 @@ $script_slidercarrera=true;
     	
         <section id="news-carrera">
         
-        	<h2>Administración de Empresas</h2>
+        	<h2>Centro de Idiomas</h2>
         	
             <div class="nwc-imagen">
             	<div id="coin-slider">
                 	<a href="#">
-       	    			<img src="imagenes/carreras/admin1.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/carreras/compu1.jpg" width="680" height="300" alt="Computacion">
                     </a>
                     <a href="#">
-       	    			<img src="imagenes/carreras/admin2.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/carreras/compu2.jpg" width="680" height="300" alt="Computacion">
                     </a>
                 </div>
             </div>
@@ -87,22 +87,18 @@ $script_slidercarrera=true;
             </div>
             
             <div class="nwc-info">
-            <p>El profesional de administración de empresas egresado del instituto amauta estará capacitado para tomar decisiones en diversas instancias de la empresa, gestionando los recursos disponibles para el logro de los objetivos institucionales. Además investiga y analiza el mercado con el objetivo de crear y dirigir su propia empresa.</p>
-            <p><strong>Perfil Profesional</strong></p>
-            <p>Nuestro egresado será capaz de:              </p>
-            <ul>
-                <li>Identificar oportunidades de negocio.              </li>
-                <li>Elaborar y desarrollar planes de negocios innovadores y competitivos.              </li>
-                <li>Diseñar e implementar estrategias de gestión de negocios con una visión global.              </li>
-                <li>Ejecutar y supervisar la aplicación de técnicas de organización orientadas a los procesos.              </li>
-                <li>Gestionar los recursos financieros, según los procedimientos internos establecidos y la legislación vigente.              </li>
-                <li>Realizar la comercialización de productos y servicios de acuerdo a las necesidades y requerimientos del mercado nacional e internacional.              </li>
-                <li>Gestionar los recursos humanos teniendo en cuenta los criterios organizativos y un efectivo liderazgo.              </li>
-                <li>Supervisar los procesos operativos y su logística de acuerdo a estándares internacionales de calidad.              </li>
-                <li>Solucionar problemas con sentido analítico y crítico.              </li>
-                <li>Comunicarse eficazmente y trabajar en equipo</li>
-            </ul>
-            </div>
+              <p> El Centro de Idiomas del IESTP AMAUTA, te invita a participar del aprendizaje del idioma inglés, el cual, es hoy en día indispensable ya que te permite tener acceso a una diversidad de oportunidades de crecimiento y desarrollo profesional.</p>
+              <p> Por ello hemos desarrollado la metodología <strong>DYNAMIC LEARNING</strong>, el cual te permitirá en corto tiempo, leer, hablar y redactar en inglés.</p>
+              <h3>DESARROLLO DEL CURSO</h3>
+              <br>
+              <h3>BASICO 10 meses</h3>
+              El alumno empieza a familiarizarse con el idioma inglés, a través del reconocimiento de la realidad de tal manera que el aprendizaje se realiza de la manera más sencilla.<br>
+              <br>
+              <h3>INTERMEDIO 6 meses</h3>
+              Empieza a desarrollar las habilidades básicas que le permita poder entender y expresarse en el nuevo idioma y de esta manera acceder al mundo globalizado.<br>
+              <br>
+              <h3>AVANZADO 8 meses</h3>
+          El alumno perfecciona el dominio del idioma, la fluidez en la expresión, la rapidez en la redacción y lectura, posibilitando que el nivel de entendimiento se de al más alto nivel. </div>
         
         </section><!-- FIN SECTION -->
         

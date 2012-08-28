@@ -25,15 +25,15 @@ $script_slidercarrera=true;
     	
         <section id="news-carrera">
         
-        	<h2>Administración de Empresas</h2>
+        	<h2>Marketing Empresarial</h2>
         	
             <div class="nwc-imagen">
             	<div id="coin-slider">
                 	<a href="#">
-       	    			<img src="imagenes/carreras/admin1.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/carreras/mark1.jpg" width="680" height="300" alt="Computacion">
                     </a>
                     <a href="#">
-       	    			<img src="imagenes/carreras/admin2.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/carreras/mark2.jpg" width="680" height="300" alt="Computacion">
                     </a>
                 </div>
             </div>
@@ -87,22 +87,19 @@ $script_slidercarrera=true;
             </div>
             
             <div class="nwc-info">
-            <p>El profesional de administración de empresas egresado del instituto amauta estará capacitado para tomar decisiones en diversas instancias de la empresa, gestionando los recursos disponibles para el logro de los objetivos institucionales. Además investiga y analiza el mercado con el objetivo de crear y dirigir su propia empresa.</p>
-            <p><strong>Perfil Profesional</strong></p>
-            <p>Nuestro egresado será capaz de:              </p>
-            <ul>
-                <li>Identificar oportunidades de negocio.              </li>
-                <li>Elaborar y desarrollar planes de negocios innovadores y competitivos.              </li>
-                <li>Diseñar e implementar estrategias de gestión de negocios con una visión global.              </li>
-                <li>Ejecutar y supervisar la aplicación de técnicas de organización orientadas a los procesos.              </li>
-                <li>Gestionar los recursos financieros, según los procedimientos internos establecidos y la legislación vigente.              </li>
-                <li>Realizar la comercialización de productos y servicios de acuerdo a las necesidades y requerimientos del mercado nacional e internacional.              </li>
-                <li>Gestionar los recursos humanos teniendo en cuenta los criterios organizativos y un efectivo liderazgo.              </li>
-                <li>Supervisar los procesos operativos y su logística de acuerdo a estándares internacionales de calidad.              </li>
-                <li>Solucionar problemas con sentido analítico y crítico.              </li>
-                <li>Comunicarse eficazmente y trabajar en equipo</li>
-            </ul>
-            </div>
+              <h3>CARRERAS CORTAS:</h3>
+              <ul>
+                <li> Secretariado Ejecutivo (Duración: 1 año).</li>
+                <li> Gestión de pequeñas empresas (Duración: 1 año).</li>
+                <li> Auxiliar de educación inicial (Duración: 1 año).</li>
+                <li> Marketing práctico (Duración: 1 año).              </li>
+              </ul>
+              <h3>CARRERAS LIBRES</h3>
+              <ul>
+                <li> Cajero (Duración: 3 meses).</li>
+                <li> Aplicaciones de marketing con Excel (Duración: 3 meses).</li>
+                <li> Plan de negocios con Excel (Duración: 3 meses).</li>
+                <li> Atención al cliente (Duración: 2 meses).</li></ul></div>
         
         </section><!-- FIN SECTION -->
         

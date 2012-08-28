@@ -31,15 +31,15 @@
                     </li>
                     <li class="bgr"><a class="mains" href="#" title="">Centro de Emprendimiento</a>
                     	<ul class="submenu">
-                            <li><a href="#">Chef de Alta Cocina</a></li>
-                            <li><a href="#">Computación e Informática</a></li>
-                            <li><a href="#">Gastronomia y Arte Culinario</a></li>
-                            <li><a href="#">Marketing Empresarial</a></li>
+                            <li><a href="empr-chef.php">Chef de Alta Cocina</a></li>
+                            <li><a href="empr-compu.php">Computación e Informática</a></li>
+                            <li><a href="empr-gastro.php">Gastronomia y Arte Culinario</a></li>
+                            <li><a href="empr-markt.php">Marketing Empresarial</a></li>
                         </ul>
                     </li>
-                    <li class="bgr"><a class="mains" href="centro_de_idomas.php" title="">Centro de Idiomas</a></li>
+                    <li class="bgr"><a class="mains" href="idiomas.php" title="">Centro de Idiomas</a></li>
                     <li class="bgr"><a class="mains" href="sedes.php" title="">Sedes</a></li>
-                    <li class="last bgr"><a class="mains last" href="contactanos.php" title="">Contactenos</a></li>
+                    <li class="last bgr"><a class="mains last" href="#" title="">Contactenos</a></li>
                 </ul><!-- FIN MENU -->
             </nav><!-- FIN NAV -->
             

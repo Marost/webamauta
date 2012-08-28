@@ -25,15 +25,15 @@ $script_slidercarrera=true;
     	
         <section id="news-carrera">
         
-        	<h2>Administración de Empresas</h2>
+        	<h2>Computación e Informática</h2>
         	
             <div class="nwc-imagen">
             	<div id="coin-slider">
                 	<a href="#">
-       	    			<img src="imagenes/carreras/admin1.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/carreras/compu1.jpg" width="680" height="300" alt="Computacion">
                     </a>
                     <a href="#">
-       	    			<img src="imagenes/carreras/admin2.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/carreras/compu2.jpg" width="680" height="300" alt="Computacion">
                     </a>
                 </div>
             </div>
@@ -87,21 +87,21 @@ $script_slidercarrera=true;
             </div>
             
             <div class="nwc-info">
-            <p>El profesional de administración de empresas egresado del instituto amauta estará capacitado para tomar decisiones en diversas instancias de la empresa, gestionando los recursos disponibles para el logro de los objetivos institucionales. Además investiga y analiza el mercado con el objetivo de crear y dirigir su propia empresa.</p>
-            <p><strong>Perfil Profesional</strong></p>
-            <p>Nuestro egresado será capaz de:              </p>
-            <ul>
-                <li>Identificar oportunidades de negocio.              </li>
-                <li>Elaborar y desarrollar planes de negocios innovadores y competitivos.              </li>
-                <li>Diseñar e implementar estrategias de gestión de negocios con una visión global.              </li>
-                <li>Ejecutar y supervisar la aplicación de técnicas de organización orientadas a los procesos.              </li>
-                <li>Gestionar los recursos financieros, según los procedimientos internos establecidos y la legislación vigente.              </li>
-                <li>Realizar la comercialización de productos y servicios de acuerdo a las necesidades y requerimientos del mercado nacional e internacional.              </li>
-                <li>Gestionar los recursos humanos teniendo en cuenta los criterios organizativos y un efectivo liderazgo.              </li>
-                <li>Supervisar los procesos operativos y su logística de acuerdo a estándares internacionales de calidad.              </li>
-                <li>Solucionar problemas con sentido analítico y crítico.              </li>
-                <li>Comunicarse eficazmente y trabajar en equipo</li>
-            </ul>
+              <h3>CARRERAS CORTAS:</h3>
+              <ul>
+                <li> Técnico en computación (Duración: 9 meses).</li>
+                <li> Diseño gráfico digital (Duración: 6 meses).</li>
+                <li> Especialista en Ofimática (Duración: 6 meses).</li>
+                <li> Web designer (Duración: 6 meses).</li>
+              </ul>
+              <br>
+              <h3>CARRERAS LIBRES:</h3>
+              <ul>
+                <li> Ensamblaje y reparación de PC's (Duración: 3 meses).</li>
+                <li> 100 trucos técnicas para internet (Duración: 2 meses).</li>
+                <li> Blogs para principiantes (Duración: 1mes).</li>
+              </ul>
+<p>&nbsp;</p>
             </div>
         
         </section><!-- FIN SECTION -->

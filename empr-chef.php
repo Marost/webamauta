@@ -25,15 +25,15 @@ $script_slidercarrera=true;
     	
         <section id="news-carrera">
         
-        	<h2>Administración de Empresas</h2>
+        	<h2>Chef de Alta Cocina</h2>
         	
             <div class="nwc-imagen">
             	<div id="coin-slider">
                 	<a href="#">
-       	    			<img src="imagenes/carreras/admin1.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/carreras/gastro1.jpg" width="680" height="300" alt="Computacion">
                     </a>
                     <a href="#">
-       	    			<img src="imagenes/carreras/admin2.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/carreras/gastro2.jpg" width="680" height="300" alt="Computacion">
                     </a>
                 </div>
             </div>
@@ -87,21 +87,23 @@ $script_slidercarrera=true;
             </div>
             
             <div class="nwc-info">
-            <p>El profesional de administración de empresas egresado del instituto amauta estará capacitado para tomar decisiones en diversas instancias de la empresa, gestionando los recursos disponibles para el logro de los objetivos institucionales. Además investiga y analiza el mercado con el objetivo de crear y dirigir su propia empresa.</p>
-            <p><strong>Perfil Profesional</strong></p>
-            <p>Nuestro egresado será capaz de:              </p>
+            <p>El alumno del IESTP AMAUTA, deberá aprender las diferentes técnicas gastronómicas, con las cuales al terminar sus estudios estará capacitado para trabajar en cualquier área de cocina, repostería y pastelería, banquetes y estilismo en alimentos (alimentos maquillados para fotografía publicitaria), tener su negocio e impartir clases en las diferentes instituciones del medio, ya que tendrá los conocimientos necesarios para desarrollarse a un nivel de excelencia y profesionalismo en el arte culinario.</p>
+            <h3>DURACION: 
+            2 años.<br>
+            <br>
+            </h3>
+            <h3>PERFIL PROFESIONAL:</h3>
             <ul>
-                <li>Identificar oportunidades de negocio.              </li>
-                <li>Elaborar y desarrollar planes de negocios innovadores y competitivos.              </li>
-                <li>Diseñar e implementar estrategias de gestión de negocios con una visión global.              </li>
-                <li>Ejecutar y supervisar la aplicación de técnicas de organización orientadas a los procesos.              </li>
-                <li>Gestionar los recursos financieros, según los procedimientos internos establecidos y la legislación vigente.              </li>
-                <li>Realizar la comercialización de productos y servicios de acuerdo a las necesidades y requerimientos del mercado nacional e internacional.              </li>
-                <li>Gestionar los recursos humanos teniendo en cuenta los criterios organizativos y un efectivo liderazgo.              </li>
-                <li>Supervisar los procesos operativos y su logística de acuerdo a estándares internacionales de calidad.              </li>
-                <li>Solucionar problemas con sentido analítico y crítico.              </li>
-                <li>Comunicarse eficazmente y trabajar en equipo</li>
+              <li>Dominio, conocimiento y práctica de la gastronomía nacional e internacional.</li>
+              <li>Manejo de diversas técnicas culinarias.</li>
+              <li> Conocimiento de panadería de terminología técnica culinaria.</li>
+              <li> Conocimiento de bebidas y enología.</li>
+              <li> Conocimiento y dominio de herramientas de gestión contable, financiera y de marketing para el logro eficiente de los objetivos de su empresa.</li>
             </ul>
+            <h3>&nbsp;</h3>
+            <h3>CAMPO DE TRABAJO:</h3>
+            <p>Empresa de servicios: Cadena de hoteles, restaurantes, cafés, pubs, casinos, discotecas, cadenas de fast food, clubs deportivos y sociales, resorts, centros de esparcimiento, empresas de eventos, departamentos de cocina y nutrición en clínicas y hospitales, pastelerías y panaderías, servicios de catering, así como un negocio propio en el sector.</p>
+            <p>&nbsp;</p>
             </div>
         
         </section><!-- FIN SECTION -->
