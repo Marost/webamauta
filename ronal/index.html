@@ -1,3 +1,39 @@
+<?php 
+/*---- credits: http://www.pixel2life.com/publish/tutorials/928/php_gd_image_reflections/ ----*/ 
+header('content-type: imagenes/carreras/jpeg'); 
+$im = $_GET['im']; // The input image 
+$porcentaje=isset($_GET['porcentaje'])?$_GET['porcentaje']:100; 
+$size = getimagesize($im); 
+$rH = $size[1]*$porcentaje/100;// Reflection height 
+$tr = 0; // Starting transparency 
+$div = 0; // Size of the divider line 
+$w = $size[0]; 
+$h = $size[1]; 
+$im = imagecreatefromjpeg($im); 
+$li = imagecreatetruecolor($w, 1); 
+$bgc = imagecolorallocate($li, 255, 255, 255); // Background color 
+imagefilledrectangle($li, 0, 0, $w, 1, $bgc); 
+$bg = imagecreatetruecolor($w, $rH); 
+$wh = imagecolorallocate($im,255,255,255); 
+$im = imagerotate($im, -180, $wh); 
+imagecopyresampled($bg, $im, 0, 0, 0, 0, $w, $h, $w, $h); 
+$im = $bg; 
+$bg = imagecreatetruecolor($w, $rH); 
+for ($x = 0; $x < $w; $x++) { 
+    imagecopy($bg, $im, $x, 0, $w-$x, 0, 1, $rH); 
+}  
+$in = 100/$rH; 
+for($i=0; $i<=$rH; $i++){ 
+    if($tr>100) $tr = 100; 
+    imagecopymerge($bg, $li, 0, $i, 0, 0, $w, 1, $tr); 
+    $tr+=$in; 
+} 
+imagecopymerge($bg, $li, 0, 0, 0, 0, $w, $div, 100); // Divider 
+imagejpeg($bg); 
+imagedestroy($im); 
+imagedestroy($li); 
+?>
+
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -7,5 +43,6 @@
 
 <body>
 <h1>esta es una web - <strong>RONALD</strong></h1>
+<img src="imagenes/carreras/admin1.jpg" /><br /><img src="imagenes/carreras/reflection.php?im=imagenes/carreras/admin1.jpg&amp;porcentaje=50" />
 </body>
 </html>
