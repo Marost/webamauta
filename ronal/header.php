@@ -48,11 +48,11 @@
 		<script type="text/javascript" src="imageflow.packed.js"></script>
             
             <div id="myImageFlow" class="imageflow">
-			<img src="img/any.jpg" longdesc="img/any.jpg" width="400" height="300" alt="Image 1" />
-			<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Image 2" />
-			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Image 3" />
-			<img src="img/any.jpg" longdesc="img/any.jpg" width="400" height="300" alt="Image 4" />
-			<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Image 5" />
+			<img src="img/any.jpg" longdesc="img/any.jpg" width="400" height="300" alt="Administración de Empresas" />
+			<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Computación e Informática" />
+			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Gastronomía y Arte Culinario" />
+			<img src="img/any.jpg" longdesc="img/any.jpg" width="400" height="300" alt="Marketing Empresarial" />
+			<!--<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Image 5" />
 			<img src="img/any.jpg" longdesc="img/any.jpg" width="400" height="300" alt="Image 6" />
 			<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Image 7" />
 			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Image 8" />
@@ -62,7 +62,7 @@
 			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Image 12" />
 			<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Image 13" />
 			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Image 14" />
-			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Image 15" />
+			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Image 15" />-->
 		</div>
             
             <!--<?php if($script_slidersup==true){ ?>
