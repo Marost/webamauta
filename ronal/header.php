@@ -44,7 +44,28 @@
                 </ul><!-- FIN MENU -->
             </nav><!-- FIN NAV -->
             
-            <?php if($script_slidersup==true){ ?>
+            <link rel="stylesheet" href="imageflow.packed.css" type="text/css" />
+		<script type="text/javascript" src="imageflow.packed.js"></script>
+            
+            <div id="myImageFlow" class="imageflow">
+			<img src="img/any.jpg" longdesc="img/any.jpg" width="400" height="300" alt="Image 1" />
+			<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Image 2" />
+			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Image 3" />
+			<img src="img/any.jpg" longdesc="img/any.jpg" width="400" height="300" alt="Image 4" />
+			<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Image 5" />
+			<img src="img/any.jpg" longdesc="img/any.jpg" width="400" height="300" alt="Image 6" />
+			<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Image 7" />
+			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Image 8" />
+			<img src="img/any.jpg" longdesc="img/any.jpg" width="400" height="300" alt="Image 9" />
+			<img src="img/any.jpg" longdesc="img/any.jpg" width="400" height="300" alt="Image 10" />
+			<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Image 11" />
+			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Image 12" />
+			<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Image 13" />
+			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Image 14" />
+			<img src="img/any (3).jpg" longdesc="img/any (3).jpg" width="400" height="400" alt="Image 15" />
+		</div>
+            
+            <!--<?php if($script_slidersup==true){ ?>
             <div id="slide_superior">
             	<div id="slsup_items">
                 	<a href="carrera-adm.php">
@@ -61,7 +82,7 @@
                     </a>
                 </div>
             </div>
-            <?php } ?>
+            <?php } ?>-->
         
         </div><!-- FIN CONTENIDO HEADER -->
         
