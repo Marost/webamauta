@@ -48,9 +48,9 @@
 		<script type="text/javascript" src="imageflow.packed.js"></script>
             
             <div id="myImageFlow" class="imageflow">
-			<img src="img/slide/amauta1.jpg" longdesc="img/slide/amauta1.jpg" width="400" height="400" alt="Administración de Empresas" />
+			<img src="img/slide/amauta1.jpg" longdesc="img/slide/amauta1.jpg" width="300" height="400" alt="Administración de Empresas" />
 			<img src="img/slide/amauta2.jpg" longdesc="img/slide/amauta2.jpg" width="300" height="400" alt="Computación e Informática" />
-			<img src="img/slide/amauta3.jpg" longdesc="img/slide/amauta3.jpg" width="400" height="300" alt="Gastronomía y Arte Culinario" />
+			<img src="img/slide/amauta3.jpg" longdesc="img/slide/amauta3.jpg" width="300" height="400" alt="Gastronomía y Arte Culinario" />
 			<img src="img/slide/amauta4.jpg" longdesc="img/slide/amauta4.jpg" width="300" height="400" alt="Marketing Empresarial" />
 			<!--<img src="img/any (2).jpg" longdesc="img/any (2).jpg" width="300" height="400" alt="Image 5" />
 			<img src="img/any.jpg" longdesc="img/any.jpg" width="400" height="300" alt="Image 6" />
