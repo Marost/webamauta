@@ -14,11 +14,14 @@
                 <div id="outerContainer">
             <div id="imageScroller">
             <div id="viewer" class="js-disabled">
-					<a class="wrapper" href="http://facebook.com/amauta.istp" title="Facebook"><img class="logo" id="facebook" src="logos/facebook.jpg" alt="Facebook"></a>
-					<a class="wrapper" href="http://twitter.com/istp_amauta" title="Twitter"><img class="logo" id="twitter" src="logos/twitter.jpg" alt="Twitter"></a>
-					<a class="wrapper" href="http://www.youtube.com" title="Youtube"><img class="logo" id="youtube" src="logos/youtube.jpg" alt="youtube"></a>
-					<a class="wrapper" href="http://www.istpamauta.edu.pe/carrera-gst.php" title="Gastronomia"><img class="logo" id="gastronomia" src="logos/gastronomia.jpg" alt="Gastronomia"></a>
-					<a class="wrapper" href="http://www.istpamauta.edu.pe/carrera-cmp.php" title="Computacion"><img class="logo" id="computacion" src="logos/computacion.jpg" alt="Computacion e Informatica"></a> 
+					<a class="wrapper" href="http://facebook.com/amauta.istp" title="Facebook"><img class="logo" id="facebook" src="logos/facebook.png" alt="Facebook"></a>
+					<a class="wrapper" href="http://twitter.com/istp_amauta" title="Twitter"><img class="logo" id="twitter" src="logos/twitter.png" alt="Twitter"></a>
+					<a class="wrapper" href="http://www.youtube.com" title="Youtube"><img class="logo" id="youtube" src="logos/youtube.png" alt="youtube"></a>
+					<a class="wrapper" href="http://www.istpamauta.edu.pe/carrera-adm.php" title="Administración de Empresas"><img class="logo" id="administración" src="logos/administracion.png" alt="Administración"></a>
+					<a class="wrapper" href="http://www.istpamauta.edu.pe/carrera-cmp.php" title="Computación e Informática"><img class="logo" id="computación" src="logos/computacion.png" alt="Computación"></a> 
+                    <a class="wrapper" href="http://www.istpamauta.edu.pe/carrera-gst.php" title="Gastronomía y Arte Culinario"><img class="logo" id="gastronomía" src="logos/gastronomia.png" alt="Gastronomía"></a>
+                    <a class="wrapper" href="http://www.istpamauta.edu.pe/carrera-mkt.php" title="Marketing Empresarial"><img class="logo" id="marketing" src="logos/marketing.png" alt="Marketing"></a>
+                    
             <script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js"></script>
             <script type="text/javascript">
 			$(function() {
@@ -176,25 +179,14 @@
 				});
 			});
 		</script>
-		
-         
-                
-               <!-- <div id="wg_social">
-                    <ul id="wgsc_items">
-                        <li><a target="_blank" class="wgsc_facebook" href="http://facebook.com/amauta.istp">Facebook</a></li>
-                        <li><a target="_blank" class="wgsc_twitter" href="http://twitter.com/istp_amauta">Twitter</a></li>
-                    </ul>
-                </div>-->
+        
       </div>        
       </div>
         </div>         
             </div><!-- FIN HEADER SUP -->
             
           
-            
-           
-                    
-            <nav>
+           <nav>
                 <ul id="nav" class="sf-menu">
                     <li class="first bgr"><a class="mains" href="/" title="">Inicio</a></li>
                     <li class="bgr"><a class="mains" href="nosotros.php" title="">Nosotros</a></li>
@@ -244,161 +236,27 @@
 		</script>
             
   		<div class="cn_wrapper">
-			<!--<div id="cn_preview" class="cn_preview">
-				<div class="cn_content" style="top:5px;">
-					<img src="images/polaroidphotobar.jpg" alt=""/>
-					<h1>Polaroid Photobar Gallery with jQuery</h1>
-					<span class="cn_date">28/09/2010</span>
-					<span class="cn_category">Tutorials</span>
-					<p>In this tutorial we are going to create an image gallery with a Polaroid look.
-						We will have albums that will expand to sets of slightly rotated thumbnails
-						that pop out on hover.</p>
-					<a href="http://tympanus.net/codrops/2010/09/28/polaroid-photobar-gallery/" target="_blank" class="cn_more">Read more</a>
-				</div>
-				<div class="cn_content">
-					<img src="images/fullpageimagegallery.jpg" alt=""/>
-					<h1>Full Page Image Gallery with jQuery</h1>
-					<span class="cn_date">08/09/2010</span>
-					<span class="cn_category">Tutorials</span>
-					<p>In this tutorial we are going to create a stunning full page gallery with
-						scrollable thumbnails and a scrollable full screen preview.
-						</p>
-					<a href="http://tympanus.net/codrops/2010/09/08/full-page-image-gallery/" target="_blank" class="cn_more">Read more</a>
-				</div>
-				<div class="cn_content">
-					<img src="images/collapsingsitenavigation.jpg" alt=""/>
-					<h1>Collapsing Site Navigation with jQuery</h1>
-					<span class="cn_date">06/09/2010</span>
-					<span class="cn_category">Tutorials</span>
-					<p>
-						Today we will create a collapsing menu that contains vertical
-						navigation bars and a slide out content area. When hovering
-						over a menu item, an image slides down from the top and a
-						submenu slides up from the bottom.
-					</p>
-					<a href="http://tympanus.net/codrops/2010/09/06/collapsing-site-navigation/" target="_blank" class="cn_more">Read more</a>
-				</div>
-				<div class="cn_content">
-					<img src="images/thumbnailsnavigation.jpg" alt=""/>
-					<h1>Thumbnails Navigation Gallery with jQuery</h1>
-					<span class="cn_date">29/07/2010</span>
-					<span class="cn_category">Tutorials</span>
-					<p>
-						In this tutorial we are going to create an extraordinary
-						gallery with scrollable thumbnails that slide out from a
-						navigation. We are going to use jQuery and some CSS3
-						properties for the style.
-					</p>
-					<a href="http://tympanus.net/codrops/2010/07/29/thumbnails-navigation-gallery/" target="_blank" class="cn_more">Read more</a>
-				</div>
-				<div class="cn_content">
-					<img src="images/musicportfoliotemplate.jpg" alt=""/>
-					<h1>Music Portfolio Template</h1>
-					<span class="cn_date">26/07/2010</span>
-					<span class="cn_category">Development</span>
-					<p>
-						Today we want to share a music portfolio template with you.
-
-						The idea is to create an artist portfolio with a discography
-						line up and HTML5 audio player jPlayer.
-					</p>
-					<a href="http://tympanus.net/codrops/2010/07/26/music-portfolio-template/" target="_blank" class="cn_more">Read more</a>
-				</div>
-				<div class="cn_content">
-					<img src="images/relatedpostsslideouts.jpg" alt=""/>
-					<h1>Related Posts Slide Out Boxes</h1>
-					<span class="cn_date">21/07/2010</span>
-					<span class="cn_category">Tutorials</span>
-					<p>
-						The main idea is to show a fixed list at the right side
-						of the screen with some thumbnails sticking out. When
-						the user hovers over the items, they slide out.
-					</p>
-					<a href="http://tympanus.net/codrops/2010/07/21/related-posts-slide-out-boxes/" target="_blank" class="cn_more">Read more</a>
-				</div>
-				<div class="cn_content">
-					<img src="images/LatestTweetsTooltip.jpg" alt=""/>
-					<h1>Latest Tweets Tooltip with jQuery</h1>
-					<span class="cn_date">20/07/2010</span>
-					<span class="cn_category">Development</span>
-					<p>
-						If you have a news website, it might be interesting
-						for you to allow your users to see the latests tweets
-						about a topic. Here is a jQuery plugin for showing the
-						latest tweets about a certain word or phrase.
-					</p>
-					<a href="http://tympanus.net/codrops/2010/07/20/latest-tweets-tooltip/" target="_blank" class="cn_more">Read more</a>
-				</div>
-				<div class="cn_content">
-					<img src="images/slidedownbox.jpg" alt=""/>
-					<h1>Slide Down Box Menu with jQuery and CSS3</h1>
-					<span class="cn_date">16/07/2010</span>
-					<span class="cn_category">Tutorials</span>
-					<p>
-						In this tutorial we will create a unique sliding box
-						navigation. The idea is to make a box with the menu
-						item slide out, while a thumbnail pops up.
-					</p>
-					<a href="http://tympanus.net/codrops/2010/07/16/slide-down-box-menu/" target="_blank" class="cn_more">Read more</a>
-				</div>
-				<div class="cn_content">
-					<img src="images/MinimalisticSlideshowGallery.jpg" alt=""/>
-					<h1>Minimalistic Slideshow Gallery with jQuery</h1>
-					<span class="cn_date">05/07/2010</span>
-					<span class="cn_category">Tutorials</span>
-					<p>
-						In today’s tutorial we will create a simple and
-						beautiful slideshow gallery that can be easily
-						integrated in your web site.
-					</p>
-					<a href="http://tympanus.net/codrops/2010/07/05/minimalistic-slideshow-gallery/" target="_blank" class="cn_more">Read more</a>
-				</div>
-				<div class="cn_content">
-					<img src="images/imagehighlight.jpg" alt=""/>
-					<h1>Image Highlighting and Preview with jQuery</h1>
-					<span class="cn_date">04/07/2010</span>
-					<span class="cn_category">Tutorials</span>
-					<p>
-						In this tutorial we will show you how to highlight
-						and preview images that are integrated in an
-						article or spread over a page.
-					</p>
-					<a href="http://tympanus.net/codrops/2010/07/04/image-highlighting-preview/" target="_blank" class="cn_more">Read more</a>
-				</div>
-				<div class="cn_content">
-					<img src="images/photodesk.jpg" alt=""/>
-					<h1>Interactive Photo Desk</h1>
-					<span class="cn_date">01/07/2010</span>
-					<span class="cn_category">Development</span>
-					<p>
-						In this little experiment we created an interactive photo
-						desk that provides some “realistic” interaction possibilities
-						for the user.
-					</p>
-					<a href="http://tympanus.net/codrops/2010/07/01/interactive-photo-desk/" target="_blank" class="cn_more">Read more</a>
-				</div>
-			</div>-->
 			<div id="cn_list" class="cn_list">
 				<div class="cn_page" style="display:block;">
 					<div class="cn_item selected">
-						<h2>Polaroid Photobar Gallery with jQuery</h2>
-						<p>Tutorial on how to create a gallery in polaroid style</p>
+						<h2>Administracion de Empresas</h2>
+						<p><a href="http://www.istpamauta.edu.pe/carrera-adm.php">Ver más...</a></p>
+                    </div>
+					<div class="cn_item">
+						<h2>Computacion e Informatica</h2>
+						<p><a href="http://www.istpamauta.edu.pe/carrera-cmp.php">Ver más...</a></p>
 					</div>
 					<div class="cn_item">
-						<h2>Full Page Image Gallery with jQuery</h2>
-						<p>Another tutorial on how to make a full page image gallery with some jQuery</p>
+						<h2>Gastronomia y Arte Culinario</h2>
+						<p><a href="http://www.istpamauta.edu.pe/carrera-gst.php">Ver más...</a></p>
 					</div>
 					<div class="cn_item">
-						<h2>Collapsing Site Navigation with jQuery</h2>
-						<p>This tutorial shows how to create a stylish sliding site navigation</p>
-					</div>
-					<div class="cn_item">
-						<h2>Thumbnails Navigation Gallery</h2>
-						<p>This gallery will show images in a scrollable menu navigation</p>
+						<h2>Marketing Empresarial</h2>
+						<p><a href="http://www.istpamauta.edu.pe/carrera-mkt.php">Ver más...</a></p>
 					</div>
                     <div class="cn_item">
-						<h2>Slide Down Box Menu with jQuery and CSS3</h2>
-						<p>A menu with a nice effect</p>
+						<h2>Administracion de Empresas</h2>
+						<p><a href="http://www.istpamauta.edu.pe/carrera-adm.php">Ver más...</a></p>
 					</div>
 				</div>
 				<div class="cn_page">
@@ -556,22 +414,7 @@
         </script>
             
             <!--<?php if($script_slidersup==true){ ?>
-            <div id="slide_superior">
-            	<div id="slsup_items">
-                	<a href="carrera-adm.php">
-           	  			<img src="imagenes/slide/amauta1.jpg" alt="Imagen" width="940" height="415" />
-                    </a>
-                    <a href="carrera-cmp.php">
-           	  			<img src="imagenes/slide/amauta2.jpg" alt="Imagen" width="940" height="415" />
-                    </a>
-                    <a href="carrera-gst.php">
-           	  			<img src="imagenes/slide/amauta3.jpg" alt="Imagen" width="940" height="415" />
-                    </a>
-                    <a href="carrera-mkt.php">
-           	  			<img src="imagenes/slide/amauta4.jpg" alt="Imagen" width="940" height="415" />
-                    </a>
-                </div>
-            </div>
+           
             <?php } ?>-->
         
         </div><!-- FIN CONTENIDO HEADER -->

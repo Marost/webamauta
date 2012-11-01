@@ -54,6 +54,19 @@ footer{
 
 #header_sup #cnt_logo{
 	background:#fff;
+		/*-webkit-gradient(
+			linear,
+			left top,
+			left bottom,
+			from(#fff),
+			to(transparent)
+		);
+	background:
+		-moz-linear-gradient(
+			top,
+			#fff,
+			transparent
+		);*/
 	-moz-border-radius: 0px 0px 10px 10px;
 	-webkit-border-radius: 0px 0px 10px 10px;
 	border-radius: 0px 0px 10px 10px;

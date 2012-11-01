@@ -1,12 +1,12 @@
 /* js-disabled class - set image sizes so they all fit in the viewer */
 .js-disabled img { width:100px; height:100px; display:block; float:left; margin:30px 0 0;  }
 
-#outerContainer { border: #7B71A6; border-style: groove;width:618px; height:116px; margin:auto; position:relative; float:right;-moz-border-radius: 0px 0px 10px 10px;	-webkit-border-radius: 0px 0px 10px 10px;	border-radius: 0px 0px 10px 10px;}
-#imageScroller { width:618px; height:116px; position: relative; background:#000000;-moz-border-radius: 0px 0px 7px 7px;	-webkit-border-radius: 0px 0px 7px 7px;	border-radius: 0px 0px 7px 7px; }
-#viewer { width:598px; height:96px; overflow:hidden; margin:auto; position: relative; top:10px; }
+#outerContainer { border:2px solid #7B71A6;width:540px; height:116px; margin:auto; position:relative; float:right;-moz-border-radius: 0px 0px 10px 10px;	-webkit-border-radius: 0px 0px 10px 10px;	border-radius: 0px 0px 10px 10px;}
+#imageScroller { width:540px; height:116px; position: relative; background:transparent;-moz-border-radius: 0px 0px 7px 7px;	-webkit-border-radius: 0px 0px 7px 7px;	border-radius: 0px 0px 7px 7px; }
+#viewer { width:530px; height:88px; overflow:hidden; margin:auto; position: relative; top:10px; }
 #imageScroller a:active, #imageScroller a:visited { color:#000000; }
 #imageScroller a img { border:0; }
-#controls { width:610px; height:47px; background:url(images/controlsBG.png) no-repeat; position:absolute; top:4px; left:4px; z-index:10;	}
+#controls { width:530px; height:47px; background:url(images/controlsBG.png) no-repeat; position:absolute; top:4px; left:4px; z-index:10;	}
 #controls a { width:37px; height:35px; position:absolute; top:3px; }
 #controls a:active, #controls a:visited { color:#0d0d0d; }
 #title { color:#ffffff; font-family:arial; font-size:100%; font-weight:bold; width:100%; text-align:center; margin-top:10px; }
