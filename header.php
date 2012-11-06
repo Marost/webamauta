@@ -227,8 +227,8 @@
              </div>  
 				   
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/> 
-        <link rel="stylesheet" href="style_menuderecho.css" type="text/css" media="screen"/>
-	<script src="cufon-yui.js" type="text/javascript"></script>
+        <link rel="stylesheet" href="ronal/css/style.css" type="text/css" media="screen"/>
+	<script src="ronal/js/cufon-yui.js" type="text/javascript"></script>
             
   		<div class="cn_wrapper">
 			<div id="cn_list" class="cn_list">
@@ -276,7 +276,7 @@
 						<p><a href="Ver más...</a></p>
 					</div>
 				</div>
-				<!--<div class="cn_page">
+<!--			<div class="cn_page">
 					<div class="cn_item">
 						<h2>Minimalistic Slideshow Gallery</h2>
 						<p>A compact image gallery for your website</p>
@@ -288,14 +288,6 @@
 					<div class="cn_item">
 						<h2>Interactive Photo Desk</h2>
 						<p>Creating a photo desk with some real world interaction</p>
-					</div>
-                    <div class="cn_item">
-						<h2>Slide Down Box Menu with jQuery and CSS3</h2>
-						<p>A menu with a nice effect</p>
-					</div>
-                    <div class="cn_item">
-						<h2>Slide Down Box Menu with jQuery and CSS3</h2>
-						<p>A menu with a nice effect</p>
 					</div>
 				</div>-->
 				<div class="cn_nav">
