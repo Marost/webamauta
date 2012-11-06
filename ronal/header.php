@@ -216,6 +216,7 @@
             
             <link rel="stylesheet" href="imageflow.packed.css" type="text/css" />
 		<script type="text/javascript" src="imageflow.packed.js"></script>
+        
             
             <div id="myImageFlow" class="imageflow">
             <img src="img/slide/amauta1.jpg" longdesc="http://www.istpamauta.edu.pe/carrera-adm.php" width="300" height="400" alt="Administración de Empresas" />
@@ -227,13 +228,13 @@
 				   
         <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon"/> 
         <link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>
-		<script src="js/cufon-yui.js" type="text/javascript"></script>
-		<script src="js/Bebas_400.font.js" type="text/javascript"></script>
-		<script type="text/javascript">
+	<script src="js/cufon-yui.js" type="text/javascript"></script>
+	<!--	<script src="js/Bebas_400.font.js" type="text/javascript"></script>-->
+		<!--<script type="text/javascript">
 			Cufon('.cn_wrapper h1,h2', {
 				textShadow: '-1px 1px black'
 			});
-		</script>
+		</script>-->
             
   		<div class="cn_wrapper">
 			<div id="cn_list" class="cn_list">
