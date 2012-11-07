@@ -6,11 +6,11 @@
 #viewer { width:530px; height:88px; overflow:hidden; margin:auto; position: relative; top:10px; }
 #imageScroller a:active, #imageScroller a:visited { color:#000000; }
 #imageScroller a img { border:0; }
-#controls { width:530px; height:47px; background:url(imagenes/controlsBG.png) no-repeat; position:absolute; top:4px; left:4px; z-index:10;	}
+#controls { width:530px; height:47px; background:url(../imagenes/controlsBG.png) no-repeat; position:absolute; top:4px; left:4px; z-index:10;	}
 #controls a { width:37px; height:35px; position:absolute; top:3px; }
 #controls a:active, #controls a:visited { color:#0d0d0d; }
 #title { color:#ffffff; font-family:arial; font-size:100%; font-weight:bold; width:100%; text-align:center; margin-top:10px; }
-#rtl { background:url(imagenes/rtl.png) no-repeat; left:100px; }
-#rtl:hover { background:url(imagenes/rtl_over.png) no-repeat; left:99px; }
-#ltr { background:url(imagenes/ltr.png) no-repeat; right:100px; }
-#ltr:hover { background:url(imagenes/ltr_over.png) no-repeat; }
+#rtl { background:url(../imagenes/rtl.png) no-repeat; left:100px; }
+#rtl:hover { background:url(../imagenes/rtl_over.png) no-repeat; left:99px; }
+#ltr { background:url(../imagenes/ltr.png) no-repeat; right:100px; }
+#ltr:hover { background:url(../imagenes/ltr_over.png) no-repeat; }

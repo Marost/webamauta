@@ -497,18 +497,18 @@ footer {width:100%; padding:14px 0px 41px 0px; background:url(../images/bg-foote
 #page2 .faded-box {min-height:170px; line-height:22px; background: #f1f1f1;}
 #page2 .faded-box .paddin {padding:0px 5px 0px 0px;}
 #page2 #faded .control {position:absolute; top:-55px; right:4px; z-index:1; width:65px;}
-#page2 #faded .prev {display:block; height:36px; width:32px; text-indent:-5000px; background:url(../images/prev.png) left top no-repeat; position:absolute; top:0px; left:0px;}
+#page2 #faded .prev {display:block; height:36px; width:32px; text-indent:-5000px; background:url(../imagenes/prev.png) left top no-repeat; position:absolute; top:0px; left:0px;}
 #page2 #faded .prev:hover {background-position:left bottom;}
-#page2 #faded .next {display:block; height:36px; width:32px; text-indent:-5000px; background:url(../images/prev.png) right top no-repeat; position:absolute; top:0px; right:0px;}
+#page2 #faded .next {display:block; height:36px; width:32px; text-indent:-5000px; background:url(../imagenes/prev.png) right top no-repeat; position:absolute; top:0px; right:0px;}
 #page2 #faded .next:hover {background-position:right bottom;}
 
 #page5 #faded {position:relative; background: #f1f1f1; min-height:284px; z-index:1;}
 #page5 .faded-box {min-height:284px; background: #f1f1f1;}
 #page5 .faded-box .paddin {padding:7px 10px 7px 17px;}
 #page5 #faded .control {position:absolute; top:-0px; right:14px; z-index:10; width:65px;}
-#page5 #faded .prev {display:block; height:36px; width:32px; text-indent:-5000px; background:url(../images/prev.png) left top no-repeat; position:absolute; top:0px; left:0px;}
+#page5 #faded .prev {display:block; height:36px; width:32px; text-indent:-5000px; background:url(../imagenes/prev.png) left top no-repeat; position:absolute; top:0px; left:0px;}
 #page5 #faded .prev:hover {background-position:left bottom;}
-#page5 #faded .next {display:block; height:36px; width:32px; text-indent:-5000px; background:url(../images/prev.png) right top no-repeat; position:absolute; top:0px; right:0px;}
+#page5 #faded .next {display:block; height:36px; width:32px; text-indent:-5000px; background:url(../imagenes/prev.png) right top no-repeat; position:absolute; top:0px; right:0px;}
 #page5 #faded .next:hover {background-position:right bottom;}
 
 
