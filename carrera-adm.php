@@ -29,11 +29,14 @@ $script_slidercarrera=true;
         	
             <div class="nwc-imagen">
             	<div id="coin-slider">
+                    <a href="#">
+       	    			<img src="imagenes/slides/amauta1.jpg" width="680" height="300" alt="Administracion">
+                    </a>
                 	<a href="#">
-       	    			<img src="imagenes/carreras/admin1.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/carreras/admin1.jpg" width="680" height="300" alt="Administracion">
                     </a>
                     <a href="#">
-       	    			<img src="imagenes/carreras/admin2.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/carreras/admin2.jpg" width="680" height="300" alt="Administracion">
                     </a>
                 </div>
             </div>
@@ -86,9 +89,52 @@ $script_slidercarrera=true;
                 
             </div>
             
-           <!-- <div id="dos animaciones">
+                           
+            <div class="nwc-info">
+            <p>El profesional de administración de empresas egresado del instituto amauta estará capacitado para tomar decisiones en diversas instancias de la empresa, gestionando los recursos disponibles para el logro de los objetivos institucionales. Además investiga y analiza el mercado con el objetivo de crear y dirigir su propia empresa.</p>
+            <p><strong>Perfil Profesional</strong></p>
+            <p>Nuestro egresado será capaz de:              </p>
+            <ul>
+                <li>Identificar oportunidades de negocio.              </li>
+                <li>Elaborar y desarrollar planes de negocios innovadores y competitivos.              </li>
+                <li>Diseñar e implementar estrategias de gestión de negocios con una visión global.              </li>
+                <li>Ejecutar y supervisar la aplicación de técnicas de organización orientadas a los procesos.              </li>
+                <li>Gestionar los recursos financieros, según los procedimientos internos establecidos y la legislación vigente.              </li>
+                <li>Realizar la comercialización de productos y servicios de acuerdo a las necesidades y requerimientos del mercado nacional e internacional.              </li>
+                <li>Gestionar los recursos humanos teniendo en cuenta los criterios organizativos y un efectivo liderazgo.              </li>
+                <li>Supervisar los procesos operativos y su logística de acuerdo a estándares internacionales de calidad.              </li>
+                <li>Solucionar problemas con sentido analítico y crítico.              </li>
+                <li>Comunicarse eficazmente y trabajar en equipo</li>
+            </ul>
+            <p><strong>Galeria de Imagenes</strong></p>
+            <p><a href="galeria_adm-prof/sideways_jquery_fullscreen_image_gallery.html">Ver Galeria... </a></p>
+            </div>
             
-              <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/> 
+         </section><!-- FIN SECTION -->
+        
+        <aside id="sidebar">
+        	
+            <article class="wgFb">
+            
+            	<h3>Buscanos en Facebook</h3>
+            	
+                <div id="fb-root"></div>
+				<script>(function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0];
+                  if (d.getElementById(id)) return;
+                  js = d.createElement(s); js.id = id;
+                  js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=217179171676130";
+                  fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script>
+                
+                <div class="fb-like-box" data-href="https://www.facebook.com/amauta.istp" data-width="240" 
+                data-height="360" data-show-faces="true" data-stream="false" data-header="false"></div>
+                
+            </article>
+        	
+        </aside><!-- FIN ASIDE -->
+        
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/> 
         <link rel="stylesheet" href="css/style_menuderecha.css" type="text/css" media="screen"/>
 	<script src="js/cufon-yui.js" type="text/javascript"></script>
             
@@ -170,7 +216,7 @@ $script_slidercarrera=true;
 
              
              <!-- The JavaScript -->
-      <!--  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+       <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 		<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
         <script type="text/javascript">
             $(function() {
@@ -268,55 +314,14 @@ $script_slidercarrera=true;
 				});
 				
             });
-        </script>-->
-       
-                        
-            <div class="nwc-info">
-            <p>El profesional de administración de empresas egresado del instituto amauta estará capacitado para tomar decisiones en diversas instancias de la empresa, gestionando los recursos disponibles para el logro de los objetivos institucionales. Además investiga y analiza el mercado con el objetivo de crear y dirigir su propia empresa.</p>
-            <p><strong>Perfil Profesional</strong></p>
-            <p>Nuestro egresado será capaz de:              </p>
-            <ul>
-                <li>Identificar oportunidades de negocio.              </li>
-                <li>Elaborar y desarrollar planes de negocios innovadores y competitivos.              </li>
-                <li>Diseñar e implementar estrategias de gestión de negocios con una visión global.              </li>
-                <li>Ejecutar y supervisar la aplicación de técnicas de organización orientadas a los procesos.              </li>
-                <li>Gestionar los recursos financieros, según los procedimientos internos establecidos y la legislación vigente.              </li>
-                <li>Realizar la comercialización de productos y servicios de acuerdo a las necesidades y requerimientos del mercado nacional e internacional.              </li>
-                <li>Gestionar los recursos humanos teniendo en cuenta los criterios organizativos y un efectivo liderazgo.              </li>
-                <li>Supervisar los procesos operativos y su logística de acuerdo a estándares internacionales de calidad.              </li>
-                <li>Solucionar problemas con sentido analítico y crítico.              </li>
-                <li>Comunicarse eficazmente y trabajar en equipo</li>
-            </ul>
-            </div>
-            
-          <!--   </div>-->
-        
-        </section><!-- FIN SECTION -->
-        
-        <aside id="sidebar">
-        	
-            <article class="wgFb">
-            
-            	<h3>Buscanos en Facebook</h3>
-            	
-                <div id="fb-root"></div>
-				<script>(function(d, s, id) {
-                  var js, fjs = d.getElementsByTagName(s)[0];
-                  if (d.getElementById(id)) return;
-                  js = d.createElement(s); js.id = id;
-                  js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=217179171676130";
-                  fjs.parentNode.insertBefore(js, fjs);
-                }(document, 'script', 'facebook-jssdk'));</script>
-                
-                <div class="fb-like-box" data-href="https://www.facebook.com/amauta.istp" data-width="240" 
-                data-height="360" data-show-faces="true" data-stream="false" data-header="false"></div>
-                
-            </article>
-        	
-        </aside><!-- FIN ASIDE -->
+        </script>
         
     </div>
+    
+        
 </section><!-- FIN SECTION -->
+
+
 
 <?php require_once("footer.php"); ?>
 
