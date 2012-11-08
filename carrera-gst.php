@@ -33,10 +33,10 @@ $script_slidercarrera=true;
        	    			<img src="imagenes/slides/amauta3.jpg" width="680" height="300" alt="Gastronomia">
                     </a>
                 	<a href="#">
-       	    			<img src="imagenes/carreras/gastro1.jpg" width="680" height="300" alt="Gastronomia">
+       	    			<img src="imagenes/slides/carreras/gastro1.jpg" width="680" height="300" alt="Gastronomia">
                     </a>
                     <a href="#">
-       	    			<img src="imagenes/carreras/gastro2.jpg" width="680" height="300" alt="Gastronomia">
+       	    			<img src="imagenes/slides/carreras/gastro2.jpg" width="680" height="300" alt="Gastronomia">
                     </a>
                 </div>
             </div>
