@@ -30,7 +30,7 @@ $script_slidercarrera=true;
             <div class="nwc-imagen">
             	<div id="coin-slider">
                 <a href="#">
-       	    			<img src="imagenes/slides/amauta4.jpg" width="680" height="300" alt="Marketing">
+       	    			<img src="imagenes/slides/carreras/amauta4.jpg" width="680" height="300" alt="Marketing">
                     </a>
                 	<a href="#">
        	    			<img src="imagenes/slides/carreras/mark1.jpg" width="680" height="300" alt="Marketing">
