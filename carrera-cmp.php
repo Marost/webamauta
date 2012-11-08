@@ -100,6 +100,8 @@ $script_slidercarrera=true;
                 <li>Ser agente motivador de cambio y de innovación liderando equipos técnicos y especialistas en nuevas tecnologías de la información para el desarrollo de sistemas y proyectos de ingeniería de software.</li>
                 <li>Liderar, integrar y dirigir proyectos IT.</li>
             </ul>
+            <p><strong>Galeria de Imagenes</strong></p>
+            <p><a href="galeria_adm-prof/galeria_cmp-prof.html">Ver Galeria... </a></p>
             </div>
         
         </section><!-- FIN SECTION -->
