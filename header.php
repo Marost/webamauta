@@ -215,10 +215,10 @@
         
             
             <div id="myImageFlow" class="imageflow">
-            <img src="imagenes/slides/amauta1_chico.jpg" longdesc="carrera-adm.php" width="300" height="400" alt="Administración de Empresas" />
-			<img src="imagenes/slides/amauta2_chico.jpg" longdesc="carrera-cmp.php" width="300" height="400" alt="Computación e Informática" />
-			<img src="imagenes/slides/amauta3_chico.jpg" longdesc="carrera-gst.php" width="300" height="400" alt="Gastronomía y Arte Culinario" />
-			<img src="imagenes/slides/amauta4_chico.jpg" longdesc="carrera-mkt.php" width="300" height="400" alt="Marketing Empresarial" />
+            <img src="imagenes/slides/principal/amauta1_chico.jpg" longdesc="carrera-adm.php" width="300" height="400" alt="Administración de Empresas" />
+			<img src="imagenes/slides/principal/amauta2_chico.jpg" longdesc="carrera-cmp.php" width="300" height="400" alt="Computación e Informática" />
+			<img src="imagenes/slides/principal/amauta3_chico.jpg" longdesc="carrera-gst.php" width="300" height="400" alt="Gastronomía y Arte Culinario" />
+			<img src="imagenes/slides/principal/amauta4_chico.jpg" longdesc="carrera-mkt.php" width="300" height="400" alt="Marketing Empresarial" />
             
              </div>  
              
