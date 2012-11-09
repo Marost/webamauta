@@ -100,6 +100,8 @@ $script_slidercarrera=true;
                 <li>Formar su propia empresa gastronómica.</li>
                 <li>Vender franquicias y desempeñarse eficientemente como chef en cualquier cocina del mundo.</li>
             </ul>
+            <p><strong>Galeria de Imagenes</strong></p>
+            <p><a href="galerias_imagenes/galeria_gst-prof.html">Ver Galeria... </a></p>
             </div>
         
         </section><!-- FIN SECTION -->

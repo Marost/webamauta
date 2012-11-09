@@ -103,6 +103,8 @@ $script_slidercarrera=true;
                 <li>Solución de problemas con sentido analítico y crítico.</li>
                 <li>Comunicarse eficazmente y trabajar en equipo.</li>
             </ul>
+            <p><strong>Galeria de Imagenes</strong></p>
+            <p><a href="galerias_imagenes/galeria_mkt-prof.html">Ver Galeria... </a></p>
             </div>
         
         </section><!-- FIN SECTION -->

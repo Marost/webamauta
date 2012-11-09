@@ -107,7 +107,7 @@ $script_slidercarrera=true;
                 <li>Comunicarse eficazmente y trabajar en equipo</li>
             </ul>
             <p><strong>Galeria de Imagenes</strong></p>
-            <p><a href="galeria_adm-prof/galeria_adm-prof.html">Ver Galeria... </a></p>
+            <p><a href="galerias_imagenes/galeria_adm-prof.html">Ver Galeria... </a></p>
             </div>
             
          </section><!-- FIN SECTION -->

@@ -101,7 +101,7 @@ $script_slidercarrera=true;
                 <li>Liderar, integrar y dirigir proyectos IT.</li>
             </ul>
             <p><strong>Galeria de Imagenes</strong></p>
-            <p><a href="galeria_adm-prof/galeria_cmp-prof.html">Ver Galeria... </a></p>
+            <p><a href="galerias_imagenes/galeria_cmp-prof.html">Ver Galeria... </a></p>
             </div>
         
         </section><!-- FIN SECTION -->
