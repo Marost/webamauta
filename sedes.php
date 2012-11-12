@@ -47,7 +47,7 @@ $script_slidercarrera=true;
 
 <body>
 
-<?php require_once("header.php"); ?>
+<?php require_once("otros_header.php"); ?>
 
 <section>
 	<div class="interior">
@@ -96,9 +96,12 @@ $script_slidercarrera=true;
                 
             </article>
         	
+            <?php require_once("menud_header.php"); ?>
+            
         </aside><!-- FIN ASIDE -->
         
-    </div>
+ </div>
+ 
 </section><!-- FIN SECTION -->
 
 <?php require_once("footer.php"); ?>

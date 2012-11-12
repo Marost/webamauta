@@ -145,10 +145,13 @@ jForm(document).ready(function(){
                 data-height="360" data-show-faces="true" data-stream="false" data-header="false"></div>
                 
             </article>
+            
+            <?php require_once("menud_header.php"); ?>
         	
         </aside><!-- FIN ASIDE -->
         
     </div>
+    
 </section><!-- FIN SECTION -->
 
 <?php require_once("footer.php"); ?>

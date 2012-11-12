@@ -25,19 +25,8 @@ $script_slidercarrera=true;
     	
         <section id="news-carrera">
         
-        	<h2>Chef de Alta Cocina</h2>
+        	<h2>NOSOTROS</h2>
         	
-            <div class="nwc-imagen">
-            	<div id="coin-slider">
-                	<a href="#">
-       	    			<img src="imagenes/slides/carreras/gastro1.jpg" width="680" height="300" alt="Computacion">
-                    </a>
-                    <a href="#">
-       	    			<img src="imagenes/slides/carreras/gastro2.jpg" width="680" height="300" alt="Computacion">
-                    </a>
-                </div>
-            </div>
-            
             <div class="nwc-social">
             	
                 <div class="nwcs-item">
@@ -87,24 +76,17 @@ $script_slidercarrera=true;
             </div>
             
             <div class="nwc-info">
-            <p>El alumno del IESTP AMAUTA, deberá aprender las diferentes técnicas gastronómicas, con las cuales al terminar sus estudios estará capacitado para trabajar en cualquier área de cocina, repostería y pastelería, banquetes y estilismo en alimentos (alimentos maquillados para fotografía publicitaria), tener su negocio e impartir clases en las diferentes instituciones del medio, ya que tendrá los conocimientos necesarios para desarrollarse a un nivel de excelencia y profesionalismo en el arte culinario.</p>
-            <h3>DURACION: 
-            2 años.<br>
-            <br>
-            </h3>
-            <h3>PERFIL PROFESIONAL:</h3>
-            <ul>
-              <li>Dominio, conocimiento y práctica de la gastronomía nacional e internacional.</li>
-              <li>Manejo de diversas técnicas culinarias.</li>
-              <li> Conocimiento de panadería de terminología técnica culinaria.</li>
-              <li> Conocimiento de bebidas y enología.</li>
-              <li> Conocimiento y dominio de herramientas de gestión contable, financiera y de marketing para el logro eficiente de los objetivos de su empresa.</li>
-            </ul>
-            <h3>&nbsp;</h3>
-            <h3>CAMPO DE TRABAJO:</h3>
-            <p>Empresa de servicios: Cadena de hoteles, restaurantes, cafés, pubs, casinos, discotecas, cadenas de fast food, clubs deportivos y sociales, resorts, centros de esparcimiento, empresas de eventos, departamentos de cocina y nutrición en clínicas y hospitales, pastelerías y panaderías, servicios de catering, así como un negocio propio en el sector.</p>
-            <p>&nbsp;</p>
-            </div>
+                <p><strong>Nuestra Misión</strong></p>
+              <p>Ser una institución de Educación Superior orientada a proveer servicios educativos de calidad, desarrollando las competencias que le permitan a nuestros alumnos ser emprendedores (empresarialidad) y competitivos en el mercado laboral (empleabilidad).</p>
+			  <p><strong>Nuestra Visión</strong></p>
+                <p>Ser una institución de Educación Superior orientada a proveer servicios educativos de calidad, desarrollando las competencias que le permitan a nuestros alumnos ser emprendedores (empresarialidad) y competitivos en el mercado laboral (empleabilidad).</p>
+                <p><strong>Principios y Valores</strong></p>
+              <ol><li>Profesionalismo de los directivos y colaboradores, sobre la base de una sólida formación educativa, experiencia laboral y responsabilidad frente a la labor desempeñada, procurando un buen clima laboral.</li>
+ <li>Trabajo en Equipo, que fomente la integración de los directivos y colaboradores para alcanzar los objetivos institucionales.</li>
+ <li>Atención al estudiante, brindando soluciones a sus necesidades de capacitación.</li>
+ <li>Promover la mejora continua e innovación, para brindar un mejor servicio.</li>
+ <li>Compromiso social y cultural con la comunidad, protegiendo y respetando el medio ambiente.</li></ol>
+         <p><img src="galerias_imagenes/imgs/administracion1_chico.jpg" alt="administracion" width="138" height="91"><img src="galerias_imagenes/imgs/computacion11_chico.jpg" alt="computacion" width="138" height="91"><img src="galerias_imagenes/imgs/gastronomia7_chico.jpg" alt="gastronomia" width="138" height="91"><img src="galerias_imagenes/imgs/computacion8_chico.jpg" alt="computacion" width="138" height="91"><img src="galerias_imagenes/imgs/marketing1_chico.jpg" alt="marketing" width="138" height="91"></p></div>
         
         </section><!-- FIN SECTION -->
         
@@ -132,8 +114,8 @@ $script_slidercarrera=true;
             
         </aside><!-- FIN ASIDE -->
         
-     </div>
-     
+        </div>
+        
 </section><!-- FIN SECTION -->
 
 <?php require_once("footer.php"); ?>

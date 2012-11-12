@@ -185,7 +185,12 @@
            <nav>
                 <ul id="nav" class="sf-menu">
                     <li class="first bgr"><a class="mains" href="/" title="">Inicio</a></li>
-                    <li class="bgr"><a class="mains" href="nosotros.php" title="">Nosotros</a></li>
+                    <li class="bgr"><a class="mains" href="javascript:;" title="">Nosotros</a>
+                    <ul class="submenu">
+                            <li><a href="mis_vis.php">Nuestra Misión y Visión</a></li>
+                            <li><a href="pqfe.php">¿Por qué formamos emprendedores?</a></li>
+                         </ul>
+                    </li>
                     <li class="bgr"><a class="mains" href="javascript:;" title="">Carreras Profesionales</a>
                     	<ul class="submenu">
                             <li><a href="carrera-adm.php">Administración de Empresas</a></li>
@@ -207,20 +212,7 @@
                     <li class="last bgr"><a class="mains last" href="#" title="">Contactenos</a></li>
                 </ul><!-- FIN MENU -->
             </nav><!-- FIN NAV -->
-            
-            
-            
-         <!--   <link rel="stylesheet" href="css/imageflow.packed.css" type="text/css" />
-		<script type="text/javascript" src="js/imageflow.packed.js"></script>
-        
-            
-            <div id="myImageFlow" class="imageflow">
-            <img src="imagenes/slides/amauta1_chico.jpg" longdesc="carrera-adm.php" width="300" height="400" alt="Administración de Empresas" />
-			<img src="imagenes/slides/amauta2_chico.jpg" longdesc="carrera-cmp.php" width="300" height="400" alt="Computación e Informática" />
-			<img src="imagenes/slides/amauta3_chico.jpg" longdesc="carrera-gst.php" width="300" height="400" alt="Gastronomía y Arte Culinario" />
-			<img src="imagenes/slides/amauta4_chico.jpg" longdesc="carrera-mkt.php" width="300" height="400" alt="Marketing Empresarial" />
-            
-             </div>  -->
+              
                              
           <!--<?php if($script_slidersup==true){ ?>
            
