@@ -224,6 +224,7 @@
 			<img src="imagenes/slides/principal/amauta2_chico.jpg" longdesc="carrera-cmp.php" width="300" height="400" alt="Computación e Informática" />
 			<img src="imagenes/slides/principal/amauta3_chico.jpg" longdesc="carrera-gst.php" width="300" height="400" alt="Gastronomía y Arte Culinario" />
 			<img src="imagenes/slides/principal/amauta4_chico.jpg" longdesc="carrera-mkt.php" width="300" height="400" alt="Marketing Empresarial" />
+            <img src="imagenes/slides/principal/chef_chico.jpg" longdesc="empr-chef.php" width="300" height="400" alt="Chef de Alta Cocina" />
             
              </div>  
              
