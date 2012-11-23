@@ -228,6 +228,7 @@
             <img src="imagenes/slides/principal/computacion_chico.jpg" longdesc="empr-compu.php" width="300" height="400" alt="Computacion e Informatica" />
             <img src="imagenes/slides/principal/gastronomia_chico.jpg" longdesc="empr-gastro.php" width="300" height="400" alt="Gastronomía y Arte Culinario" />
             <img src="imagenes/slides/principal/marketing_chico.jpg" longdesc="empr-markt.php" width="300" height="400" alt="Marketing Empresarial" />
+            <img src="imagenes/slides/principal/idiomas_chico.jpg" longdesc="idiomas.php" width="300" height="400" alt="Centro de Idiomas" />
              </div>  
              
              <?php require_once("menud_header.php"); ?>

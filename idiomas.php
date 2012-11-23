@@ -29,11 +29,14 @@ $script_slidercarrera=true;
         	
             <div class="nwc-imagen">
             	<div id="coin-slider">
+                <a href="#">
+       	    			<img src="imagenes/slides/carreras/idiomas1.jpg" width="680" height="300" alt="Idiomas">
+                    </a>
                 	<a href="#">
-       	    			<img src="imagenes/slides/carreras/compu1.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/slides/carreras/idiomas2.jpg" width="680" height="300" alt="Idiomas">
                     </a>
                     <a href="#">
-       	    			<img src="imagenes/slides/carreras/compu2.jpg" width="680" height="300" alt="Computacion">
+       	    			<img src="imagenes/slides/carreras/idiomas3.jpg" width="680" height="300" alt="Idiomas">
                     </a>
                 </div>
             </div>
