@@ -10,7 +10,7 @@ $script_slidercarrera=true;
     <meta property="og:title" content="Instituto de Educación Superior Tecnológico Privado Amauta">
     <meta property="og:description" content="Formamos profesionales técnicos en Computación e Informática, Gestión Empresarial (Administración y Marketing) con calidad académica y administrativa, generando creatividad y mentalidad emprendedora empresarial.">
     <meta property="og:url" content="http://istpamauta.edu.pe">
-	<title>Instituto de Educación Superior Tecnnológico Privado Amauta</title>
+	<title>Instituto de Educación Superior Tecnológico Privado Amauta</title>
     
     <?php require_once("header-scripts.php"); ?>
     
